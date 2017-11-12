@@ -1,0 +1,11 @@
+﻿  Main.cpp
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(93): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(149): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(153): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(161): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(167): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(171): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\main.cpp(52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\main.cpp(53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\main.cpp(141): warning C4715: “prepareData”: 不是所有的控件路径都返回值
+opencv_core2413d.lib(opencv_core2413d.dll) : fatal error LNK1112: 模块计算机类型“X86”与目标计算机类型“x64”冲突

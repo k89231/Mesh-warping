@@ -1,0 +1,18 @@
+﻿  Main.cpp
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(105): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(121): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(123): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(144): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(212): warning C4018: “<”: 有符号/无符号不匹配
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(221): warning C4018: “<”: 有符号/无符号不匹配
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(224): warning C4018: “<”: 有符号/无符号不匹配
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(227): warning C4018: “<”: 有符号/无符号不匹配
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(243): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\mapping.h(247): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\main.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\main.cpp(45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\main.cpp(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\thu\junior1\digital image processing\hw\project1\mesh warping\mesh warping\main.cpp(115): warning C4715: “prepareData”: 不是所有的控件路径都返回值
+  Mesh Warping.vcxproj -> D:\THU\junior1\Digital Image Processing\hw\Project1\Mesh Warping\Debug\Mesh Warping.exe
+  Mesh Warping.vcxproj -> D:\THU\junior1\Digital Image Processing\hw\Project1\Mesh Warping\Debug\Mesh Warping.pdb (Full PDB)
